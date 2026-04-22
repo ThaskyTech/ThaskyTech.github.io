@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
         form.reset();
 
         // Redirect to dashboard
-        window.location.href = "dashboard.html";
+        window.location.href = "index.html";
     });
 
 });

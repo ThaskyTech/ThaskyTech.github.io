@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => // Same as defer, preventing
             localStorage.setItem('adminLoggedIn', 'true');
             
             // Redirect to the dashboard
-            window.location.href = 'dashboard.html';
+            window.location.href = 'index.html';
         } 
         else 
         {

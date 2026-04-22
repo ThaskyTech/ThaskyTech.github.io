@@ -36,6 +36,6 @@ document.addEventListener('DOMContentLoaded', () => { // same as defer, waits fo
         
         alert("Person saved successfully!");
         form.reset();
-        window.location.href = "dashboard.html";
+        window.location.href = "index.html";
     });
 });

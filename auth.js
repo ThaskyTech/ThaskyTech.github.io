@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => // This page is linked to al
     // If they ARE logged in, push them to the dashboard
     if (isLoggedIn && isSignInPage) 
     {
-        window.location.href = 'dashboard.html';
+        window.location.href = 'index.html';
         return;
     }
 
